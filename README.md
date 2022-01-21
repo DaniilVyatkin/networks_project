@@ -3,7 +3,7 @@
 This repository contains project for "Architecture of computer networks" course
 
 # Description
-This app locally runs a simple website with a "like" button. After pressing the button, the user is transfered to the next page, and a "like" count on main page is updated.
+This app locally runs a simple website with a "like" button. After pressing the button, the user is transfered to the next page (which has a "return" button), and a "like" count on main page is updated.
 
 # Requirements
 1. python 3
