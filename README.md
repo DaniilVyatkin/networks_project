@@ -11,3 +11,4 @@ This app locally runs a simple website with a "like" button. After pressing the 
 
 # How to run
 1. After installing python and flask, run the "main.py" file.
+2. Go to the address that will be provided (should be http://127.0.0.1:5000/)
