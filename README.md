@@ -5,6 +5,13 @@ This repository contains project for "Architecture of computer networks" course
 # Description
 This app locally runs a simple website with a "like" button. After pressing the button, the user is transfered to the next page (which has a "return" button), and a "like" count on main page is updated.
 
+Files:
+- main.py - starts application
+- views.py - sets up the actions for visits of different pages
+- base.html - main page with "like" counter and button
+- button_pressed_page.html - page that appears after pressing the button on main page
+- counter.txt - stores the "like" counter 
+
 # Requirements
 1. python 3
 2. flask
